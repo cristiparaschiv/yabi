@@ -1,6 +1,12 @@
 # YABI
 Yet Another Brainfuck Interpreter written in Perl 
 
-Usage: perl brainfuck.pl <input file>
+Usage:
+```sh 
+perl brainfuck.pl <input_file>
+```
 
-Example: perl brainfuck.pl hello_world.txt
+Example:
+```sh 
+perl brainfuck.pl hello_world.txt
+```
